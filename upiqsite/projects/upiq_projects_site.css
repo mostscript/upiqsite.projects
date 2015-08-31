@@ -1,2 +1,6 @@
 /* Site policy styles for: projects.upiq.org */
 
+#portal-logo img {
+  margin: -1.2em 0.25em -1.25em;
+}
+
