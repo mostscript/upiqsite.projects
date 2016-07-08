@@ -13,4 +13,7 @@
         provides="Products.GenericSetup.interfaces.EXTENSION"
         />  
 
+    <!-- install custom filesystem directory view -->
+    <cmf:registerDirectory name="upiqsite_projects" />
+
 </configure>
